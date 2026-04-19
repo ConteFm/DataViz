@@ -1,2 +1,2 @@
 # DataViz
-Collection of data viz from my posts on X
+Welcome to the DataViz repository. All raw data and images used in my posts on X are stored here, organized by date of posting and short title.
