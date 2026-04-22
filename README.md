@@ -10,6 +10,9 @@ I'm a photonics engineer with ~10 years of data visualization practice, most of 
 ## Recent posts
 - 2026-04-21 | [Touching the sky: what record heights tell about us](/2026-04-21_tallest-structures) | Original chart | R, PS
 
+## License
+All content of this repository are publihsed under CC BY 4.0 license.
+
 ---
 Find me on: [Bluesky](https://bsky.app/profile/filippomcc.bsky.social) · [LinkedIn](https://www.linkedin.com/in/fmcontecapodacqua/)
 Feedback and dataset suggestions are also welcome via Issues.
