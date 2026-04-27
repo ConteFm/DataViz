@@ -8,6 +8,7 @@ Chart remakes, original plots, and data analysis - all with datasets.
 I'm a photonics engineer with ~10 years of data visualization practice, most of which in academia. This repository collects all the charts and related content I share publicly: remakes of flawed published figures, original plots of interesting datasets, and occasional tutorials. Every post includes the raw data so everyone can reproduce or adapt it.
 
 ## Recent posts
+- 2026-04-27 | [(How) Long Live the King?](https://github.com/ConteFm/DataViz/tree/main/2026-04-27_dutch-royals) | Original chart | R, PS
 - 2026-04-21 | [Touching the sky: what record heights tell about us](/2026-04-21_tallest-structures) | Original chart | R, PS
 
 ## License
